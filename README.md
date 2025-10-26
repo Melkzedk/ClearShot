@@ -132,6 +132,6 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 Melkzedek Kitalia
 ICT Support Professional | Full-Stack Developer in Training
-📧 Contact:
+📧 Contact:melkywafula29@gmail.com
 ]
 🌍 Location: Kenya
