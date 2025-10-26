@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background: #f8f9fa;
+}
+.card img {
+  max-height: 400px;
+  object-fit: contain;
+}
+
