@@ -1,23 +1,12 @@
-import logo from './logo.svg';
+import React from 'react';
+import EnhanceForm from './components/EnhanceForm';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit Test<code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container py-5">
+      <h1 className="mb-4 text-center">ClearShot — Image Enhancer</h1>
+      <EnhanceForm />
     </div>
   );
 }
