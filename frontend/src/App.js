@@ -8,7 +8,7 @@ function App() {
     <div className="container py-5 d-flex flex-column min-vh-100">
       <h1 className="mb-4 text-center d-flex justify-content-center align-items-center gap-2">
         <FaMagic color="#007bff" size={36} />
-        ClearShots — Image Enhancer
+        ClearShot — Image Enhancer
       </h1>
 
       <div className="flex-grow-1">
