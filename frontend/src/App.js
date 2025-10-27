@@ -1,7 +1,7 @@
 import React from 'react';
 import EnhanceForm from './components/EnhanceForm';
 import './App.css';
-import { FaMagic } from 'react-icons/fa'; // example icon
+import { FaMagic } from 'react-icons/fa'; 
 
 function App() {
   return (
