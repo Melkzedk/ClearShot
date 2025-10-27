@@ -49,7 +49,7 @@ export default function EnhanceForm() {
     <div className="card p-4">
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
-          <label className="form-label">Choose a blur image</label>
+          <label className="form-label">Choose a blurred image</label>
           <input type="file" accept="image/*" className="form-control" onChange={handleFileChange} />
         </div>
 
