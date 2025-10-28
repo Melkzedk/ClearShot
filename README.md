@@ -15,6 +15,14 @@ Download or view the enhanced image in a new tab
 
 Simple, responsive UI built with React and Bootstrap
 
+Project Screenshot
+
+<img width="1913" height="949" alt="Screenshot 2025-10-27 122355" src="https://github.com/user-attachments/assets/9a04f7c6-f265-4d25-8742-6fa378b1b982" />
+<img width="1906" height="937" alt="Screenshot 2025-10-27 122424" src="https://github.com/user-attachments/assets/18240bda-3435-4ce9-aac2-ed45d1b51d57" />
+
+<img width="1895" height="913" alt="Screenshot 2025-10-27 122444" src="https://github.com/user-attachments/assets/550bdd1f-2890-4d8a-b61e-5a738a15bc28" />
+
+
 🏗️ Project Structure
 clearshot/
 ├── backend/
