@@ -18,6 +18,7 @@ cloudinary.config({
 // multer - memory storage so we get buffer directly (no disk write)
 const storage = multer.memoryStorage();
 const upload = multer({ storage });
+// Basic route
 
 app.get('/', (req, res) => {
   res.send('ClearShot backend is running');
