@@ -5,6 +5,8 @@ const cors = require('cors');
 const multer = require('multer');
 const cloudinary = require('cloudinary').v2;
 
+const path = require('path');
+
 const app = express();
 app.use(cors());
 app.use(express.json());
