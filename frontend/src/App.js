@@ -16,7 +16,7 @@ function App() {
       </div>
 
       <footer className="text-center mt-5 py-3 border-top">
-        <small>© {new Date().getFullYear()} Designed by MelkTech! — All rights reserved.</small>
+        <small>© {new Date().getFullYear()} Designed by MelkTech — All rights reserved.</small>
       </footer>
     </div>
   );
