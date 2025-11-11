@@ -34,8 +34,6 @@ app.post('/api/enhance', upload.single('image'), async (req, res) => {
         folder: 'clearshot',
         fetch_format: 'auto',
         quality: 'auto',
-        // transformation: you can tune these values. This example
-        // uses a sharpening effect and slight upscaling via quality.
         transformation: [
           // apply an aggressive sharpen then auto-quality/format
           { effect: "sharpen:200" },
