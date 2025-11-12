@@ -42,7 +42,8 @@ app.post('/api/enhance', upload.single('image'), async (req, res) => {
         transformation: [
           // apply an aggressive sharpen then auto-quality/format
           { effect: "sharpen:200" },
-          { quality: "auto" }
+          { quality: "auto" },
+          { fetch_format: "auto" }
         ],
       },
       (error, result) => {
