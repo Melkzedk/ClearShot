@@ -55,7 +55,7 @@ app.post('/api/enhance', upload.single('image'), async (req, res) => {
       }
     );
 
-    // write buffer to the stream
+    // write buffer to the stream1
     uploadStream.end(req.file.buffer);
 
   } catch (err) {
