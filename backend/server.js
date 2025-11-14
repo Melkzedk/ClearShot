@@ -23,7 +23,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage });
 
 app.get('/', (req, res) => {
-  res.send('ClearShot backend is running');
+  res.send('ClearShot backend is running..');
 });
 
 // POST /api/enhance - receives single file (field name "image")
